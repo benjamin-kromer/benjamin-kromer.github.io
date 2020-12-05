@@ -1,12 +1,20 @@
 body {
     background-color: yellow;
     color: black;
-    text-align:center;
-    
+    text-align: center;
+
 }
+
+@media (max-width: 540px) {
+    img {
+        width: 7rem;
+    }
+}
+
 .game {
     padding: 7% 15%
 }
+
 .banner {
     padding: 7% 15%
 }
