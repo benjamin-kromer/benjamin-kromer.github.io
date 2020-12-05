@@ -2,12 +2,21 @@ body {
     background-color: yellow;
     color: black;
     text-align: center;
+    font-family: 'Nerko One', cursive;
 
 }
 
 @media (max-width: 540px) {
     img {
         width: 7rem;
+    }
+
+    .footer p {
+        font-size: small;
+    }
+
+    .banner h1 {
+        font-size: 1.8rem;
     }
 }
 
@@ -20,7 +29,7 @@ body {
 }
 
 .footer {
-    padding: 7% 15%
+    padding: 17% 15%
 }
 
 .hide {
