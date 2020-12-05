@@ -1,0 +1,20 @@
+body {
+    background-color: yellow;
+    color: black;
+    text-align:center;
+    
+}
+.game {
+    padding: 7% 15%
+}
+.banner {
+    padding: 7% 15%
+}
+
+.footer {
+    padding: 7% 15%
+}
+
+.hide {
+    visibility: hidden;
+}
